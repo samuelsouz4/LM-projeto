@@ -1,15 +1,16 @@
 body{
-    background-image: url(./img/fundodragão.jpg);
+    /* background-image: url(./img/8b7f701d2a59fe24be6fdc6198a81563.jpg); */
     color:goldenrod;
+    background-color: black;
     font-style: italic;
     font-size: 30px;
     padding: 0px ;   
     text-align: center;
-    /* background-size: cover;  */
-     /* background-repeat: no-repeat;  */ */
+    background-size: cover; 
+     background-repeat: no-repeat;  */
      display: flex; 
      
-   }
+     }
 
 div{
     text-align: right;
@@ -50,11 +51,14 @@ div{
  /* flex-direction: row;
  flex-wrap: wrap; */
  justify-content: center;
+ justify-content: flex-end;
 
 
 }
  
 h2{ color: seashell; 
+
+
 }
 
 
