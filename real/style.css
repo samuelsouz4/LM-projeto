@@ -1,0 +1,86 @@
+body{
+    background-image: url(./img/crisronaldo.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-size: cover; */
+    
+}
+
+
+.nav{
+    display: flex;
+    justify-content: space-between;
+    
+    color: lightskyblue;
+    font-style: normal;
+    font-size: 20px;
+}
+
+.lua{ color:white;
+    animation-duration: 40s;
+    transition: all ease. 40s;
+  }
+  
+
+ h1{
+    font-style: inherit;
+    color:white;
+    
+    
+   
+    
+    
+}
+
+.p{
+    text-align: left;
+    max-width: 60rem;
+    color: lightblue;
+    font-size: 20px;
+    width: 550px;
+    font-style: normal;
+    padding: 20px;
+    
+}
+
+
+
+
+.img :hover {  
+    transform: translateY(-5px) scale(1.1);
+    max-width: 50%;
+    height: auto;
+    box-shadow: 10px 10px 30px lightskyblue;
+    transition: all ease .40s;
+    width: 200px;
+    height: 400px;
+}
+
+
+.img{
+    /* text-align: center;  */
+    /* display: flex; */
+    /* flex-direction: row;
+    flex-wrap: wrap; */
+    /* justify-content: center; */
+    width: 400px;
+    height: 200px;
+    display: block;
+    margin:50px;
+    justify-content: right;
+}
+.p2{
+
+    color: ivory;
+    text-align: center
+   
+}
+
+
+
+
+
+
+
+
